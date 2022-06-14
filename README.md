@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=FE2E2E&height=80&section=header&text=재능은%20피워%20내는%20것,%20센스는%20갈고%20닦는%20것&fontSize=20&fontColor=F2F2F2)
 
+
 ### Hi there 👋
 
 
@@ -17,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+헤더 수정하는 사이트 https://github.com/kyechan99/capsule-render#how-to-use
 -->
