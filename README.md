@@ -3,6 +3,7 @@
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://losskatsu.github.io)](https://losskatsu.github.io)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)](https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cheolwon.jang.87/)](https://www.facebook.com/cheolwon.jang.87/)
+[![NaverCafe Badge](http://img.shields.io/badge/-NaverCafe-darkgreen?style=flat-square&logo=Lit&https://cafe.naver.com/aifromstat)](https://cafe.naver.com/aifromstat)
 
 
 :closed_book: **저서**
@@ -16,6 +17,7 @@
 * :sailboat: [누구나 선형대수! - 러닝스푼즈](https://learningspoons.com/course/detail/linear_algebra/)
 * :school: [나노디그리 수리통계 - 러닝스푼즈](https://learningspoons.com/course/detail/tobedataanalyst/)
 * :computer: [프로젝트와 함께 배우는 R 데이터 분석 - 패스트캠퍼스](https://fastcampus.co.kr/data_online_rdata)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flosskatsu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
