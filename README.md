@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=재능은%피워내는것,센스는갈고닦는것'&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=재능은_피워_내는_것,_센스는_갈고_닦는_것'&fontSize=20)
 
 ### Hi there 👋
 
