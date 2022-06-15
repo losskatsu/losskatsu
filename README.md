@@ -20,13 +20,12 @@
 * :school: [나노디그리 수리통계 - 러닝스푼즈](https://learningspoons.com/course/detail/tobedataanalyst/)
 * :computer: [프로젝트와 함께 배우는 R 데이터 분석 - 패스트캠퍼스](https://fastcampus.co.kr/data_online_rdata)
 
-<div align="center">  
  
 ![Cheolwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=losskatsu&show_icons=true&theme=jolly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=losskatsu&layout=compact&theme=jolly)  
  
-</div>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flosskatsu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
