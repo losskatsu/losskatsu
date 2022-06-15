@@ -6,6 +6,8 @@
 [![NaverCafe Badge](http://img.shields.io/badge/-NaverCafe-darkgreen?style=flat-square&logo=Lit&https://cafe.naver.com/aifromstat)](https://cafe.naver.com/aifromstat)
 
 
+## 장철원
+
 :closed_book: **저서**
 
 * :rocket: [선형대수와 통계학으로 배우는 머신러닝 with 파이썬](http://www.yes24.com/Product/Goods/97032765?OzSrank=1)
