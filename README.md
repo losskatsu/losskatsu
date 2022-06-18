@@ -8,7 +8,10 @@
 
 ## 장철원
 
-* :e-mail: 업무 문의: stoicheolwon@gmail.com
+
+ :telephone_receiver: **업무 문의** 
+
+* :e-mail: stoicheolwon@gmail.com
 
 :closed_book: **저서**
 
