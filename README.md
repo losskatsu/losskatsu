@@ -8,6 +8,8 @@
 
 ## 장철원
 
+* :e-mail: 업무 문의: stoicheolwon@gmail.com
+
 :closed_book: **저서**
 
 * :rocket: [선형대수와 통계학으로 배우는 머신러닝 with 파이썬](http://www.yes24.com/Product/Goods/97032765?OzSrank=1)
