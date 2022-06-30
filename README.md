@@ -19,9 +19,9 @@
 * :turtle: [알고리즘 구현으로 배우는 선형대수 with 파이썬](http://www.yes24.com/Product/Goods/105772247)
 * :whale: [웹 크롤링 & 데이터 분석 with 파이썬](http://www.yes24.com/Product/Goods/106175772)
 
-:pencil2: **강의**
+:pencil2: **진행 중 강의**
 
-* :snake: [파이썬 장고 벡엔드 개발자 부트캠프](https://learningspoons.com/course/detail/django-backend/)
+* :snake: [파이썬 장고 벡엔드 개발자 부트캠프 - 러닝스푼즈](https://learningspoons.com/course/detail/django-backend/)
 * :sailboat: [누구나 선형대수! 3기 - 러닝스푼즈](https://learningspoons.com/course/detail/linear_algebra/)
 * :school: [나노디그리 6기 수리통계 - 러닝스푼즈](https://learningspoons.com/course/detail/tobedataanalyst/)
 * :computer: [프로젝트와 함께 배우는 R 데이터 분석 - 패스트캠퍼스](https://fastcampus.co.kr/data_online_rdata)
