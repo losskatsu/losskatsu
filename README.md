@@ -21,6 +21,7 @@
 
 :pencil2: **강의**
 
+* :snake: [파이썬 장고 벡엔드 개발자 부트캠프](https://learningspoons.com/course/detail/django-backend/)
 * :sailboat: [누구나 선형대수! 3기 - 러닝스푼즈](https://learningspoons.com/course/detail/linear_algebra/)
 * :school: [나노디그리 6기 수리통계 - 러닝스푼즈](https://learningspoons.com/course/detail/tobedataanalyst/)
 * :computer: [프로젝트와 함께 배우는 R 데이터 분석 - 패스트캠퍼스](https://fastcampus.co.kr/data_online_rdata)
