@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=FE2E2E&height=80&section=header&text=재능은%20피워%20내는%20것,%20센스는%20갈고%20닦는%20것&fontSize=20&fontColor=F2F2F2)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=FE2E2E&height=80&section=header&text=빨강은%20세%20배%20빠르다.&fontSize=20&fontColor=F2F2F2)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://losskatsu.github.io)](https://losskatsu.github.io)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)](https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)
