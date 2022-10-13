@@ -21,10 +21,11 @@
 
 :pencil2: **강의**
 
-* :snake: [나노디그리 벡엔드 개발자 부트캠프 - 러닝스푼즈](https://learningspoons.com/course/detail/django-backend/)
-* :sailboat: [누구나 선형대수! 3기 - 러닝스푼즈](https://learningspoons.com/course/detail/linear_algebra/)
-* :school: [나노디그리 6기 수리통계 - 러닝스푼즈](https://learningspoons.com/course/detail/tobedataanalyst/)
-* :computer: [프로젝트와 함께 배우는 R 데이터 분석 - 패스트캠퍼스](https://fastcampus.co.kr/data_online_rdata)
+* :mailbox: [비즈니스 애널리틱스 - 러닝스푼즈](https://learningspoons.com/course/detail/ba/)  
+* :snake: [나노디그리 벡엔드 개발자 부트캠프 - 러닝스푼즈](https://learningspoons.com/course/detail/django-backend/)  
+* :sailboat: [누구나 선형대수! 3기 - 러닝스푼즈](https://learningspoons.com/course/detail/linear_algebra/)  
+* :school: [나노디그리 6기 수리통계 - 러닝스푼즈](https://learningspoons.com/course/detail/tobedataanalyst/)  
+* :computer: [프로젝트와 함께 배우는 R 데이터 분석 - 패스트캠퍼스](https://fastcampus.co.kr/data_online_rdata)  
 
 
 
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 헤더 수정하는 사이트 https://github.com/kyechan99/capsule-render#how-to-use
-
+이모지 사이트 https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-Emoji-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 
 성적표
  
