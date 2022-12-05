@@ -18,7 +18,7 @@
 * :rocket: [선형대수와 통계학으로 배우는 머신러닝 with 파이썬](http://www.yes24.com/Product/Goods/97032765?OzSrank=1)
 * :turtle: [알고리즘 구현으로 배우는 선형대수 with 파이썬](http://www.yes24.com/Product/Goods/105772247)
 * :whale: [웹 크롤링 & 데이터 분석 with 파이썬](http://www.yes24.com/Product/Goods/106175772)
-* 🌠 확률통계 with 파이썬(2022.12~2023.01 출간 예정)  
+* 🌠 확률통계 with 파이썬(2023.01 출간 예정)  
 
 :pencil2: **강의**
 
