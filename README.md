@@ -22,6 +22,7 @@
 
 :pencil2: **강의**
 
+* 삼성전자 Citizen Developer
 * :sailboat: [선형대수의 모든 것 4기 - 러닝스푼즈](https://learningspoons.com/course/detail/linear_algebra/)  
 * :radio: [빅데이터 인재 양성 과정 - 서초구청](https://learningspoons.notion.site/X-6fc3ecc40d6f4beeb42fa52499bed721)
 * :mailbox: [비즈니스 애널리틱스 - 러닝스푼즈](https://learningspoons.com/course/detail/ba/)  
