@@ -22,6 +22,7 @@
 
 :pencil2: **강의**
 
+* 이어드림 3기  
 * :mailbox: [비즈니스 애널리틱스 2기- 러닝스푼즈](https://learningspoons.com/course/detail/ba/)  
 * 삼성전자 Citizen Developer 확률통계 & 데이터분석 - 패스트캠퍼스  
 * :sailboat: [선형대수의 모든 것 4기 - 러닝스푼즈](https://learningspoons.com/course/detail/linear_algebra/)  
