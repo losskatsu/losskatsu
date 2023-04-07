@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=FE2E2E&height=80&section=header&text=이론과%20실전의%20조합을%20추구하는%20인공지능%20개발자&fontSize=20&fontColor=F2F2F2)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=FE2E2E&height=80&section=header&text=이론과%20실전의%20조합&fontSize=20&fontColor=F2F2F2)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://losskatsu.github.io)](https://losskatsu.github.io)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)](https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)
