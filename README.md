@@ -20,7 +20,7 @@
 * :whale: [웹 크롤링 & 데이터 분석 with 파이썬](http://www.yes24.com/Product/Goods/106175772)
 * 🌠 [몬테카를로 시뮬레이션으로 배우는 확률통계 with 파이썬](http://www.yes24.com/Product/Goods/117709828)  
 
-:pencil2: **강의**
+:pencil2: **강의**  
 
 * 삼성전자 Citizen Developer 확률통계 - 패스트캠퍼스  
 * 이어드림 스쿨 3기 MLops 쿠버네티스    
@@ -33,7 +33,11 @@
 * :school: [나노디그리 6기 수리통계 - 러닝스푼즈](https://learningspoons.com/course/detail/tobedataanalyst/)  
 * :computer: [프로젝트와 함께 배우는 R 데이터 분석 - 패스트캠퍼스](https://fastcampus.co.kr/data_online_rdata)  
 
+:zap: **스킬**   
 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flosskatsu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
