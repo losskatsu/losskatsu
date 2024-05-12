@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=FE2E2E&height=80&section=header&text=이론과%20실전의%20조합&fontSize=20&fontColor=F2F2F2)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://losskatsu.github.io)](https://losskatsu.github.io)  
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)](https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)  
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cheolwon.jang.87/)](https://www.facebook.com/cheolwon.jang.87/)  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://losskatsu.github.io)](https://losskatsu.github.io)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)](https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cheolwon.jang.87/)](https://www.facebook.com/cheolwon.jang.87/)
 [![NaverCafe Badge](http://img.shields.io/badge/-NaverCafe-darkgreen?style=flat-square&logo=Lit&https://cafe.naver.com/aifromstat)](https://cafe.naver.com/aifromstat)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/cheolwon-jang/)](https://www.linkedin.com/in/cheolwon-jang/)
 
