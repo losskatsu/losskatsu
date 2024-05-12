@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=FE2E2E&height=80&section=header&text=이론과%20실전의%20조합&fontSize=20&fontColor=F2F2F2)
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://losskatsu.github.io)](https://losskatsu.github.io)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)](https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cheolwon.jang.87/)](https://www.facebook.com/cheolwon.jang.87/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://losskatsu.github.io)](https://losskatsu.github.io)  
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)](https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)  
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cheolwon.jang.87/)](https://www.facebook.com/cheolwon.jang.87/)  
 [![NaverCafe Badge](http://img.shields.io/badge/-NaverCafe-darkgreen?style=flat-square&logo=Lit&https://cafe.naver.com/aifromstat)](https://cafe.naver.com/aifromstat)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/cheolwon-jang/)](https://www.linkedin.com/in/cheolwon-jang/)
 
-
-## 장철원
+## 장철원  
 
 
  :telephone_receiver: **업무 문의** 
@@ -40,7 +40,10 @@
 <div align=left> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 <br>
 </div>
 
