@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=FACC2E&height=80&section=header&text=Find%20Core,%20Make%20More&fontSize=20&fontColor=585858)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=FACC2E&height=80&section=header&text=Find%20Core,%20Make%20More&fontSize=20&fontColor=2E2E2E)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://losskatsu.github.io)](https://losskatsu.github.io)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)](https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)
