@@ -6,23 +6,6 @@
 [![NaverCafe Badge](http://img.shields.io/badge/-NaverCafe-darkgreen?style=flat-square&logo=Lit&https://cafe.naver.com/aifromstat)](https://cafe.naver.com/aifromstat)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/cheolwon-jang/)](https://www.linkedin.com/in/cheolwon-jang/)
 
-## 장철원  
-
-
- :telephone_receiver: **업무 문의** 
-
-* :e-mail: stoicheolwon@gmail.com
-* :office: [https://www.madohakja.com](https://www.madohakja.com)
-
-:closed_book: **저서**
-
-* :: [트랜스포머 아키텍처로 배우는 AI 에이전트 with 랭체인&랭그래프[header](https://capsule-render.vercel.app/api?type=Soft&color=FACC2E&height=80&section=header&text=Find%20Core,%20Make%20More&fontSize=20&fontColor=2E2E2E)
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://losskatsu.github.io)](https://losskatsu.github.io)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)](https://www.youtube.com/channel/UCHGdug7d72yrZq1cRORahXA)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cheolwon.jang.87/)](https://www.facebook.com/cheolwon.jang.87/)
-[![NaverCafe Badge](http://img.shields.io/badge/-NaverCafe-darkgreen?style=flat-square&logo=Lit&https://cafe.naver.com/aifromstat)](https://cafe.naver.com/aifromstat)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/cheolwon-jang/)](https://www.linkedin.com/in/cheolwon-jang/)
 
 ## 장철원  
 
